@@ -1,0 +1,1 @@
+# Screen Testing with Dotnet and Playwright
